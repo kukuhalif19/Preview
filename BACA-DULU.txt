@@ -1,0 +1,11 @@
+Museum of Memory
+
+Cara memasang di web:
+1. Unggah seluruh isi folder ini (index.html dan folder assets) ke hosting, misalnya Netlify, Vercel, GitHub Pages, Cloudflare Pages, atau hosting biasa.
+2. Pastikan index.html dan folder assets berada di folder yang sama. Jangan ubah nama folder assets.
+3. Buka alamat situsnya di HP atau laptop. Suara baru mulai setelah tombol Mulai diketuk.
+
+Catatan:
+- Perlu internet untuk memuat font dari Google Fonts. Tanpa internet, tampilan tetap jalan dengan font cadangan.
+- Total ukuran sekitar 7,5 MB.
+- File suara ada di assets/sound (mp3). Untuk mengganti, timpa dengan nama file yang sama.
